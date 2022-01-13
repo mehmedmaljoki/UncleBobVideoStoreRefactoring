@@ -21,8 +21,4 @@ public class Movie {
     public int getPriceCode() {
         return priceCode;
     }
-
-    public void setPriceCode(int priceCode) {
-        this.priceCode = priceCode;
-    }
 }

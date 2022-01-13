@@ -7,15 +7,6 @@ public class Rental
         this.movie = movie;
         this.daysRented = daysRented;
     }
-
-    public Movie getMovie() {
-        return movie;
-    }
-
-    public int getDaysRented() {
-        return daysRented;
-    }
-
     private Movie movie;
     private int daysRented;
 
